@@ -1,0 +1,40 @@
+{
+    "posts":[
+        {
+            "id":1,
+            "title":"将进酒,君不见",
+            "content":"主人何为.....",
+            "author":"1"
+        },
+        {
+            "id": 1,
+            "title": "将进酒,君不见",
+            "content": "主人何为.....",
+            "author": "1"
+        }
+    ],
+    "users":[
+        {
+            "id":1,
+            "name":"李白"
+        },
+        {
+            "id":2,
+            "name":"白居易"
+        }
+    ],
+    "comments":[
+        {
+            "id":1,
+            "postId":1,
+            "author":2,
+            "cocntent":"hao shi ~"
+        },
+        {
+            "id":2,
+            "postId":1,
+            "author":2,
+            "cocntent":"hao shi xuexi le  ~"
+        }
+    ]
+}
